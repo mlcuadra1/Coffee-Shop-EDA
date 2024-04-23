@@ -1,8 +1,12 @@
 # Maven Roasters EDA
 
+| ![network header](../assets/header.png) | 
+|:--:| 
+| *Photo by [Helena Lopes](https://www.pexels.com/photo/two-women-sitting-on-chairs-in-front-of-each-other-887723/) from Pexels.* |
+
 ## Dataset
 
-The dataset came from the [Coffee Shop Sales](https://mavenanalytics.io/data-playground) from Maven Analytics (License: Public Domain).
+The dataset originally came from the [Coffee Shop Sales](https://mavenanalytics.io/data-playground) from Maven Analytics (License: Public Domain). I first found it from this [kaggle.com website](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales).
 
 ## Introduction
 
@@ -16,7 +20,7 @@ The main objective of this project (so far) is:
 
 > **To perform EDA on sales data to develop insights about the coffee shop business.**
 
-To achieve this objective, I broke it down to X smaller objectives:
+To achieve this objective, I broke it down to 5 smaller objectives:
 
 1. To perform basic time-series analyses of in terms of daily and monthly sales and purchases;
 2. To dig deeper by looking into the average daily sales-per-transaction over a month, average daily sales over a week, and average hourly sales in a day;
