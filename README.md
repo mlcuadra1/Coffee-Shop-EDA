@@ -1,6 +1,6 @@
 # Maven Roasters EDA
 
-![header.png](../assets/header.png)
+![header.png](assets/header.png)
 *Photo by [Helena Lopes](https://www.pexels.com/photo/two-women-sitting-on-chairs-in-front-of-each-other-887723/) from Pexels.*
 
 ## Dataset
